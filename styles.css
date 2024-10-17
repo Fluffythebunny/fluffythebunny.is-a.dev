@@ -177,7 +177,6 @@ h1 {
     100% { background-position: 100% 50%; }
 }
 
-/* Bouncing animation for contact links */
 #contact a {
     display: inline-block;
     animation: bounce 1s ease infinite;
